@@ -1,4 +1,4 @@
-# C-project-auto-generate-bash-script-
+# C-project-auto-generate-bash-script
 
 This script allows you to generate a minimal C project, it generates it using the Meson build system.
 It also automatically connects libraries to Meson.
