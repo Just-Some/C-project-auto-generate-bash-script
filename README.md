@@ -7,4 +7,6 @@ I’ll say right away that it was mostly created for me, so there may be some in
 ## Roadmap
 * add auto project name
 * add auto binary name
-* add settings 
+* add settings
+* add support other languages
+
